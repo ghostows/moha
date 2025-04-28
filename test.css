@@ -6,3 +6,9 @@ h1 {
 h1:hover {
   color: #e74c3c;
 }
+.title {
+  color : red ;
+  background-color : blue;
+
+  
+}
