@@ -1,12 +1,11 @@
 h1 {
 
-color : "red" ; 
-
-  
+color : red ;
+background-color : black ;
 }
 
 
-.title {
+body {
 
-  color : "green" ; 
+  background-color : lightgray ; 
 }
