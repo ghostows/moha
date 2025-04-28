@@ -1,12 +1,5 @@
-h1 {
-  color: #3498db;
-  transition: color 0.3s ease;
-}
 
-h1:hover {
-  color: #e74c3c;
-}
-.title {
+.titleee {
   color : red ;
   
 }
