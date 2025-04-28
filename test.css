@@ -1,6 +1,6 @@
 h1 {
 
-color : red ; 
+color : "red" ; 
 
   
 }
@@ -8,5 +8,5 @@ color : red ;
 
 .title {
 
-  color : green ; 
+  color : "green" ; 
 }
